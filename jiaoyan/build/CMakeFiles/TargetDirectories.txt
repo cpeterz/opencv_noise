@@ -1,0 +1,3 @@
+/home/peter/OpenCV_test/jiaoyan/build/CMakeFiles/rebuild_cache.dir
+/home/peter/OpenCV_test/jiaoyan/build/CMakeFiles/edit_cache.dir
+/home/peter/OpenCV_test/jiaoyan/build/CMakeFiles/jiaoyan.dir

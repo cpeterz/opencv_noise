@@ -1,0 +1,3 @@
+/home/peter/OpenCV_test/kernel_test/build/CMakeFiles/rebuild_cache.dir
+/home/peter/OpenCV_test/kernel_test/build/CMakeFiles/edit_cache.dir
+/home/peter/OpenCV_test/kernel_test/build/CMakeFiles/kernel1.dir
